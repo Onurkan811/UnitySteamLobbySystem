@@ -7,7 +7,6 @@ This project is a **Steam-integrated multiplayer lobby system** built with Unity
 - **Unity** (version 2020.x or later)
 - **Mirror** - Networking solution for Unity
 - **Steamworks.NET** - C# wrapper for the Steamworks API
-- **Steam P2P** - For NAT-punching and direct peer-to-peer communication
 
 ## 🚀 Features
 
